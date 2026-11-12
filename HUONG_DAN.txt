@@ -1,0 +1,21 @@
+WEBSITE LỚP 11/1 – GLASSMORPHISM
+1. Giải nén file ZIP.
+2. Vào GitHub > repository của bạn > Add file > Upload files.
+3. Tải index.html và cả thư mục assets lên cùng cấp (giữ nguyên cấu trúc).
+4. Commit changes.
+5. Vào Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6. Chờ GitHub Pages triển khai rồi mở đường dẫn hiển thị trong mục Pages.
+
+CẬP NHẬT ẢNH:
+- Thêm ảnh vào thư mục assets.
+- Mở index.html và thêm đường dẫn ảnh mới vào mảng photos ở cuối file.
+- Muốn thay ảnh bay ở trang đầu, đổi đường dẫn src trong 4 thẻ .orbit-card.
+- Commit changes để cập nhật.
+
+SPOTIFY:
+- Bấm nút Spotify ở góc dưới.
+- Dán link bài hát hoặc playlist Spotify.
+- Trình duyệt sẽ hiện trình phát nhúng. Một số thiết bị cần chạm Play do giới hạn tự phát nhạc.
+
+LƯU Ý:
+Đây là bản website tĩnh. Thay đổi nội dung cần tải tệp mới lên GitHub. Muốn quản trị online không cần GitHub, cần nối thêm Google Sheets + Apps Script và triển khai riêng một lần.
